@@ -155,11 +155,11 @@ int main(void){
 リンクしたい文字列を[]、隅カッコで囲み、リンク先URLを()で囲む。  
 記述例
 ```
-[Qiita](http://qiita.com/)  
-[Yahoo!Japan](http://www.yahoo.co.jp/)
+[Qiita](https://qiita.com/)  
+[Yahoo!Japan](https://www.yahoo.co.jp/)
 ```
-[Qiita](http://qiita.com/)  
-[Yahoo!Japan](http://www.yahoo.co.jp/)
+[Qiita](https://qiita.com/)  
+[Yahoo!Japan](https://www.yahoo.co.jp/)
 
 ***
 
